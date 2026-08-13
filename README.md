@@ -2,9 +2,9 @@
 
 ### Skills backed by evidence.
 
-Verifolio is an AI powered platform that helps students and early career developers build evidence backed technical profiles.
+Verifolio is an AI powered technical portfolio that turns CV claims into evidence backed skill profiles.
 
-Instead of relying only on skills listed on a CV, Verifolio analyzes a candidate's actual projects and GitHub repositories to identify, verify, and strengthen the evidence behind their technical skills.
+Instead of simply listing technologies a candidate says they know, Verifolio analyzes their actual projects, GitHub repositories, and certifications to understand what their work demonstrates.
 
 ## Core Idea
 
