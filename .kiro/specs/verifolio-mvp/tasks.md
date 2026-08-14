@@ -12,12 +12,12 @@ Tasks marked `*` are optional (testing / polish) and can be skipped for a faster
 
 ### Phase 1 — Project Setup
 
-- [ ] 1. Initialize Next.js 14 project with TypeScript and App Router
+- [x] 1. Initialize Next.js 14 project with TypeScript and App Router
   - Run `npx create-next-app@latest verifolio --typescript --app --tailwind --eslint`
   - Confirm `app/` directory structure, `tsconfig.json`, and `tailwind.config.ts` exist
   - _Requirements: all (foundation for every requirement)_
 
-- [ ] 2. Install and configure shadcn/ui component library
+- [-] 2. Install and configure shadcn/ui component library
   - Run `npx shadcn-ui@latest init`; select default style, Tailwind CSS, TypeScript
   - Add baseline components: `button`, `card`, `input`, `label`, `badge`, `textarea`, `alert`, `separator`
   - _Requirements: all UI requirements (2–7)_
